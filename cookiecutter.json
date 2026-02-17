@@ -1,0 +1,9 @@
+{
+"project_name": "My Django Project",
+"project_slug": "my_django_project",
+"work_dir": ".",
+"create_virtualenv": "y",
+"_copy_without_render": [
+"hooks/*"
+]
+}
